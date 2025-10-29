@@ -9,4 +9,4 @@ Key Insights (example):
 4. The number of titles added has increased sharply after 2015.
 5. Most Netflix titles are rated for mature audiences (TV-MA).
 
-You can update this file after running your analysis queries.
+
