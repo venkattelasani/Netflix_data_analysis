@@ -1,0 +1,12 @@
+Netflix Data Analysis - Summary of Findings
+----------------------------------------------------
+This file summarizes the insights obtained after running SQL analysis queries.
+
+Key Insights (example):
+1. Movies make up around 70% of Netflix's total content.
+2. The United States and India are top content-producing countries.
+3. 'Dramas' and 'International Movies' are the most frequent genres.
+4. The number of titles added has increased sharply after 2015.
+5. Most Netflix titles are rated for mature audiences (TV-MA).
+
+You can update this file after running your analysis queries.
